@@ -10,3 +10,4 @@
 - 2026-02-11: Create premium header layout with capsule-render
 - 2026-02-24: Add typing SVG badges and contact links
 - 2026-02-25: Add profile view counter and quote footer
+- 2026-02-27: Add typing SVG badges and contact links
