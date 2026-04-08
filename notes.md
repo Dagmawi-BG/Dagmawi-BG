@@ -15,3 +15,4 @@
 - 2026-03-19: Add contribution trophies and activities graph widgets
 - 2026-03-22: Add typing SVG badges and contact links
 - 2026-04-02: Create premium header layout with capsule-render
+- 2026-04-08: Structure About Me section in stylized JSON block
