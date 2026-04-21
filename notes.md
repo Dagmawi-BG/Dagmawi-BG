@@ -17,3 +17,4 @@
 - 2026-04-02: Create premium header layout with capsule-render
 - 2026-04-08: Structure About Me section in stylized JSON block
 - 2026-04-17: Add typing SVG badges and contact links
+- 2026-04-21: Add profile view counter and quote footer
