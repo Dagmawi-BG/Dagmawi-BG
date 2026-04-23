@@ -18,3 +18,4 @@
 - 2026-04-08: Structure About Me section in stylized JSON block
 - 2026-04-17: Add typing SVG badges and contact links
 - 2026-04-21: Add profile view counter and quote footer
+- 2026-04-23: Build projects table with status tags
